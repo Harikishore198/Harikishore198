@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋 I'm Harikishore
 
-<!--
-**Harikishore198/Harikishore198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics / VLSI Enthusiast
+💻 RTL Design Verification Engineer (Fresher)
+🔍 Interested in ASIC/SoC Verification and Digital Design
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning **SystemVerilog and UVM**
+* 🔬 Practicing **RTL Design Verification and Testbench Development**
+* 🧠 Interested in **Functional Verification, ASIC Design, and Digital Systems**
+* 📚 Continuously improving my verification and debugging skills
+
+## 🛠️ Skills & Tools
+
+* **Languages:** Verilog, SystemVerilog
+* **Methodology:** UVM
+* **Concepts:** RTL Design, Functional Verification, Digital Design
+* **Tools:** QuestaSim / ModelSim / VCS (learning)
+
+## 📂 Projects
+
+Some of the projects in this profile include:
+
+* RTL module verification
+* SystemVerilog testbench development
+* UVM-based verification environments
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Harikishore198
+* LinkedIn:(https://www.linkedin.com/in/hari-kishore-m-798014263/)
+
+⭐ *Always learning and exploring the world of RTL Design and Verification.*
